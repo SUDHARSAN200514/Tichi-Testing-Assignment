@@ -7,6 +7,9 @@ module.exports = defineConfig({
   timeout: 30000,
 
   use: {
+    // Base URL of the application
+    baseURL: 'https://tichi-app-webapp-stage.web.app',
+
     browserName: 'chromium',
 
     headless: false,

@@ -1,7 +1,7 @@
 module.exports = {
   login: {
     validEmail: "tharsansudharsan@gmail.com",
-    validPassword: "sudha@14",
+    validPassword: "Sudha@14",
 
     invalidEmail: "abcgmail.com",
     invalidPassword: "Wrong@123",
